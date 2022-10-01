@@ -10,8 +10,6 @@
    3) Tensorflow.js (npm i @tensorflow/tfjs)
    4) Tensorflow visualation (npm i @tensorflow/tfjs-vis)
 
-## Outputs
-
-* Prediction(@tensorflow/tf-vis)
+## Outputs: Prediction(@tensorflow/tf-vis)
 
 ![output](https://github.com/dev-hack95/Diabetes_detection-tensorflow.js-/tree/main/data/media)
