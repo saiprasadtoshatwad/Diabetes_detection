@@ -13,4 +13,5 @@
 ## Outputs
 
 * Prediction(@tensorflow/tf-vis)
+
 ![output](https://github.com/dev-hack95/Diabetes_detection-tensorflow.js-/tree/main/data/media)
