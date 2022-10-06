@@ -1,4 +1,4 @@
-# Diabetes Prediction using tensorflow.js
+# Diabetes Detection
 
 ![Tensorflow version](https://img.shields.io/badge/Tensorflow.js-3.18.0-lightgrey)
 ![Type of ML](https://img.shields.io/badge/Type%20of%20ML-binary--classiification-red)
