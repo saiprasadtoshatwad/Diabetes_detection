@@ -6,7 +6,9 @@
 ## Requriments
    1) D3.js
     
-   ```npm i d3 --save```
+   ```bash
+   npm i d3 --save
+   ```
    
    2) Alternative  is Pappaparse
    3) Tensorflow.js (npm i @tensorflow/tfjs)
