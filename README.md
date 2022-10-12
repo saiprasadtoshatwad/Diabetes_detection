@@ -16,7 +16,7 @@
       npm i @tensorflow/tfjs
    ```
    
-   4)Tensorflow visualation 
+   4) Tensorflow visualation 
    ```bash
       npm i @tensorflow/tfjs-vis)
    ```
