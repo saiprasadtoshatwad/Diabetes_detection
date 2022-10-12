@@ -1,4 +1,4 @@
-# Diabetes Detection
+![Title](https://github.com/dev-hack95/Diabetes_detection/blob/main/data/media/diabetes_detection_4.jpg.png)
 
 ![Tensorflow version](https://img.shields.io/badge/Tensorflow.js-3.18.0-lightgrey)
 ![Type of ML](https://img.shields.io/badge/Type%20of%20ML-binary--classiification-red)
