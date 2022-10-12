@@ -22,12 +22,12 @@
   - [Run Locally](#run-locally)
   - [Explore the notebook](#explore-the-notebook)
   - [Deployment on streamlit](#deployment-on-streamlit)
-  - [App deployed on Streamlit](#app-deployed-on-streamlit)
+  - [Deployment](#Deployment)
+  - [Docker](#Docker)
+  - [Kubernetes](#Kubernetes)
   - [Repository structure](#repository-structure)
-  - [Contribution](#contribution)
-  - [Project featuring](#project-featuring)
-  - [License](#license)
-
+  - [Results](#Results)
+  - 
 ## Requriments
    1) D3.js
     
