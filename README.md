@@ -27,7 +27,7 @@
   - [Kubernetes](#Kubernetes)
   - [Repository structure](#repository-structure)
   - [Results](#Results)
-  - 
+  
 ## Requriments
    1) D3.js
     
