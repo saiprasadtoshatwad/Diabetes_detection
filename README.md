@@ -11,8 +11,15 @@
    ```
    
    2) Alternative  is Pappaparse
-   3) Tensorflow.js (npm i @tensorflow/tfjs)
-   4) Tensorflow visualation (npm i @tensorflow/tfjs-vis)
+   3) Tensorflow.js 
+   ```bash
+      npm i @tensorflow/tfjs
+   ```
+   
+   4)Tensorflow visualation 
+   ```bash
+      npm i @tensorflow/tfjs-vis)
+   ```
 
 ## Outputs: Prediction(@tensorflow/tf-vis)
 
