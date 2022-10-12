@@ -8,7 +8,7 @@
 
 ## Authors
 
-- [@semasuka](https://www.github.com/semasuka)
+- [@dev-hack95](https://www.github.com/dev-hack95)
 
 ## Table of Contents
 
