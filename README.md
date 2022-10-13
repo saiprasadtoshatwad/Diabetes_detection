@@ -12,7 +12,7 @@
 
 ## Table of Contents
 
-  - [Business problem](#business-problem)
+  - [Problem Statement](#Problem-Statement)
   - [Data source](#data-source)
   - [Methods](#methods)
   - [Tech Stack](#tech-stack)
