@@ -30,7 +30,8 @@
   - [Results](#Results)
   
 ## Problem Statement
-   
+  - Create a machine learning model on diabetes detection
+  
 ## Data Source
   - [Diabetes Prediction dataset](https://www.kaggle.com/datasets/vikasukani/diabetes-data-set)
 
@@ -46,6 +47,7 @@
 ## Tech Stack
 
 - Python (refer to requirement.txt for the packages used in this project)
+- Tensorboard
 - Javascript
 - Docker
 - Kubernetes
