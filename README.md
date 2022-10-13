@@ -24,7 +24,6 @@
   - [Limitation and what can be improved](#limitation-and-what-can-be-improved)
   - [Run Locally](#run-locally)
   - [Explore the notebook](#explore-the-notebook)
-  - [Deployment on streamlit](#deployment-on-streamlit)
   - [Deployment](#Deployment)
   - [Docker](#Docker)
   - [Kubernetes](#Kubernetes)
@@ -44,6 +43,13 @@
 - Explainable AI
 - Model Comparison
 - Model deployment
+
+## Tech Stack
+
+- Python (refer to requirement.txt for the packages used in this project)
+- Docker
+- Kubernetes
+- Devops
   
 ## Requriments
    1) D3.js
