@@ -35,6 +35,15 @@
    
 ## Data Source
   - [Diabetes Prediction dataset](https://www.kaggle.com/datasets/vikasukani/diabetes-data-set)
+
+## Methods
+
+- Exploratory data analysis
+- Bivariate analysis
+- Multivariate correlation
+- Explainable AI
+- Model Comparison
+- Model deployment
   
 ## Requriments
    1) D3.js
